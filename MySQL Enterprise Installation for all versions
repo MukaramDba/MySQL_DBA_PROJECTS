@@ -1,1 +1,9 @@
+MYSQL INSTALLATION PROCESS, 
 
+INSTALLTION FROM MYSQL PACKAGE(FROM ORACLE REPO(APP STORE))
+
+1. Download the package from mysql community download
+2. Install the package 
+3. Install mysql-community-server
+4. Enable and Start mysqld.service
+5. Verify the status of the installation
